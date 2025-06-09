@@ -19,7 +19,7 @@
 
 ---
 
-### 🌸 Current Project: [PawsOS](https://github.com/PawFault/PawsOS)
+### 🌸 Current Project: [PawsOS](https://github.com/PawShift/PawsOS)
 
 A cute and totally unnecessary operating system built just to make bootloaders sparkle and terminals pink.
 
@@ -32,7 +32,7 @@ A cute and totally unnecessary operating system built just to make bootloaders s
 
 ---
 
-### 📫 Contact / Follow
+### 📫 Contact
 
 - 💌 [pawfault@proton.me](mailto:pawfault@proton.me)
 - 🐾 [github.com/PawFault](https://github.com/PawFault)
